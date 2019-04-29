@@ -1,0 +1,7 @@
+C:\Users\sattar\Desktop\P210\C#\20190426_Lab\Solution20190426_Lab\Game\bin\Debug\Game.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190426_Lab\Solution20190426_Lab\Game\bin\Debug\Game.exe
+C:\Users\sattar\Desktop\P210\C#\20190426_Lab\Solution20190426_Lab\Game\bin\Debug\Game.pdb
+C:\Users\sattar\Desktop\P210\C#\20190426_Lab\Solution20190426_Lab\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190426_Lab\Solution20190426_Lab\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190426_Lab\Solution20190426_Lab\Game\obj\Debug\Game.exe
+C:\Users\sattar\Desktop\P210\C#\20190426_Lab\Solution20190426_Lab\Game\obj\Debug\Game.pdb
